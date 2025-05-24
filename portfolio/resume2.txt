@@ -1,0 +1,101 @@
+Sushanth Reddy Paduru
+
+Email: padurusushanth@gmail.com
+Mobile: +91-8309851938
+
+LinkedIn: Sushanth Reddy Paduru
+
+Education
+•
+
+Malla Reddy Institute of Engineering and Technology, Hyderabad
+Bachelor of Technology - Computer Science and Engineering; CGPA: 6.5
+
+Hyderabad, India
+July 2020 - June 2024
+
+•
+
+Sri Chaitanya Panineeya Mv Junior College, Hyderabad
+MPC ; Percentage: 81
+
+Hyderabad, India
+July 2018 - June 2020
+
+•
+
+Abhyas Techno High School, Hyderabad
+SSC ; Percentage: 82
+
+Hyderabad, India
+July 2017 - June 2018
+
+Internship Experience
+•
+
+Smart IMS
+
+Onsite
+Sept 2023 - July 2024
+
+◦ Clinical Trial Management Software:
+◦ Developed backend systems Features for enterprise web applications in the healthcare and life sciences
+domain using Python,Fast API,MySQL and PostgreSQL:
+
+◦
+ConnX
+∗ Advance Auto Parts:
+
+Onsite
+Jan 2023 - Aug 2023
+
+∗ Networking Fundamental and Basic Troubleshooting Basic Configuration of L2 and L3 network
+switches, Monitored and analyzed protocols troubleshooting in networking technologies including
+routing, switching, and VPN setups with Juniper SD-WAN Technology:
+
+◦
+
+Projects
+Classiffication Of Software Defined Network Traffic to Provide Quality of Service
+∗ To provide quality of service in network we reduced the traffic collision by using software defined network to
+identity and prevents the collision of the data in the network
+∗ Technologies and Tools used - Python ,Tkinter ,Matplotib ,Seaborn ,Numpy ,Pandas ,Scikit-Learn.
+
+◦
+Use Of Artificial Neural Networks to Identify Fake Profiles
+∗ For identifying the fake profiles from the social media, we designed an algorithm to which predicts the fake
+profile at accuracy 100 percent enhancing the overall user experience
+∗ Technologies and Tools used - Python, Django, SQLite.
+
+Skills
+◦ Languages:
+◦ Frameworks:
+◦ Tools:
+◦ Platforms:
+◦ Soft Skills:
+
+Python, PHP, C++, C , JAVA
+Django,FAST API, TensorFlow
+Tkinter ,Matplotib ,Seaborn ,Numpy ,Pandas ,Scikit-Learn, PostgreSQL, MySQL, SQLite
+Linux,Web, Windows
+Leadership, Event Management, Writing, Public Speaking, Time Management
+
+Position of Responsibilty
+◦
+StreetCause/Malla Reddy Institute of Engineering and Technology, Hyderabad
+Coordinator
+∗ Organized and executed flashmob events
+∗ Coordinated inter-college dance performances
+◦
+NSS/Malla Reddy Institute of Engineering and Technology, Hyderabad
+Event Management Incharge
+∗ Managed logistics and team coordination:Supervised logistics, including venue setup, equipment, and
+materials, while coordinating with student volunteers and faculty to ensure smooth event operations and high
+participation.
+
+Other Interests/Extracurricular Activities
+• Chess
+• Reading
+• Travelling
+
+

@@ -1,0 +1,30 @@
+# Portfolio Website Creation Tasks
+
+- [x] Extract information from resumes
+  - [x] Extract personal details (name, contact, etc.)
+  - [x] Extract skills and expertise
+  - [x] Extract work experience
+  - [x] Extract education details
+  - [x] Extract projects and achievements
+  - [x] Extract links and social media profiles
+- [x] Design static portfolio website
+  - [x] Create wireframe/layout structure
+  - [x] Define color scheme and typography
+  - [x] Plan responsive design elements
+- [x] Implement website with resume links and skills
+  - [x] Create HTML structure
+  - [x] Implement CSS styling
+  - [x] Add JavaScript functionality
+  - [x] Integrate resume information
+  - [x] Ensure responsive design
+- [x] Validate website content and responsiveness
+  - [x] Test on different screen sizes
+  - [x] Verify all links work correctly
+  - [x] Check content accuracy
+- [x] Prepare GitHub deployment package
+  - [x] Organize files for GitHub Pages
+  - [x] Create README with deployment instructions
+- [x] Report and send website to user
+  - [x] Package all files
+  - [x] Provide deployment instructions
+  - [x] Send final deliverables

@@ -1,0 +1,85 @@
+{
+  "personal": {
+    "name": "Sushanth Reddy Paduru",
+    "email": "padurusushanth@gmail.com",
+    "mobile": "+91-8309851938",
+    "linkedin": "Sushanth Reddy Paduru"
+  },
+  "education": [
+    {
+      "institution": "Malla Reddy Institute of Engineering and Technology, Hyderabad",
+      "degree": "Bachelor of Technology - Computer Science and Engineering",
+      "grade": "CGPA: 6.5",
+      "location": "Hyderabad, India",
+      "period": "July 2020 - June 2024"
+    },
+    {
+      "institution": "Sri Chaitanya Panineeya Mv Junior College, Hyderabad",
+      "degree": "MPC",
+      "grade": "Percentage: 81",
+      "location": "Hyderabad, India",
+      "period": "July 2018 - June 2020"
+    },
+    {
+      "institution": "Abhyas Techno High School, Hyderabad",
+      "degree": "SSC",
+      "grade": "Percentage: 82",
+      "location": "Hyderabad, India",
+      "period": "July 2017 - June 2018"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Smart IMS",
+      "position": "Internship",
+      "location": "Onsite",
+      "period": "Sept 2023 - July 2024",
+      "description": "Clinical Trial Management Software: Developed backend systems Features for enterprise web applications in the healthcare and life sciences domain using Python, Fast API, MySQL and PostgreSQL"
+    },
+    {
+      "company": "ConnX",
+      "position": "Internship",
+      "location": "Onsite",
+      "period": "Jan 2023 - Aug 2023",
+      "description": "Advance Auto Parts: Networking Fundamental and Basic Troubleshooting Basic Configuration of L2 and L3 network switches, Monitored and analyzed protocols troubleshooting in networking technologies including routing, switching, and VPN setups with Juniper SD-WAN Technology"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Classification Of Software Defined Network Traffic to Provide Quality of Service",
+      "description": "To provide quality of service in network we reduced the traffic collision by using software defined network to identity and prevents the collision of the data in the network",
+      "technologies": "Python, Tkinter, Matplotlib, Seaborn, Numpy, Pandas, Scikit-Learn"
+    },
+    {
+      "title": "Use Of Artificial Neural Networks to Identify Fake Profiles",
+      "description": "For identifying the fake profiles from the social media, we designed an algorithm to which predicts the fake profile at accuracy 100 percent enhancing the overall user experience",
+      "technologies": "Python, Django, SQLite"
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "PHP", "C++", "C", "JAVA"],
+    "frameworks": ["Django", "FAST API", "TensorFlow"],
+    "tools": ["Tkinter", "Matplotlib", "Seaborn", "Numpy", "Pandas", "Scikit-Learn", "PostgreSQL", "MySQL", "SQLite", "Cisco Packet Tracer"],
+    "platforms": ["Linux", "Web", "Windows"],
+    "soft_skills": ["Leadership", "Event Management", "Content Writing", "Public Speaking", "Time Management"],
+    "technical_skills": ["CCENT", "CCNA", "Networking Fundamentals", "Basic Troubleshooting Routers", "Network Access", "IP Connectivity and Services", "Security Fundamentals", "Automation and Programmability", "Basic Configuration of L2 and L3 Network Switches", "Juniper SD-WAN Technology", "ServiceNow", "Microsoft Teams and Outlook"]
+  },
+  "responsibilities": [
+    {
+      "organization": "StreetCause/Malla Reddy Institute of Engineering and Technology, Hyderabad",
+      "position": "Coordinator",
+      "responsibilities": [
+        "Organized and executed flashmob events",
+        "Coordinated inter-college dance performances"
+      ]
+    },
+    {
+      "organization": "NSS/Malla Reddy Institute of Engineering and Technology, Hyderabad",
+      "position": "Event Management Incharge",
+      "responsibilities": [
+        "Managed logistics and team coordination: Supervised logistics, including venue setup, equipment, and materials, while coordinating with student volunteers and faculty to ensure smooth event operations and high participation"
+      ]
+    }
+  ],
+  "interests": ["Chess", "Reading", "Travelling"]
+}
